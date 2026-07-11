@@ -37,8 +37,6 @@ cp .env.example .env
 python app.py
 ```
 
-Open `http://127.0.0.1:5000`.
-
 ## OpenAI Configuration
 
 The application works without an API key using the rule-based counseling fallback.
